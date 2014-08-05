@@ -5,5 +5,5 @@ tempfile.txt
 log/*.log
 log/*.log.[0-9]
 assets/photoshop/
-asets/videos/
+assets/videos/
 !assets/videos/tour_*.mp4
